@@ -1,6 +1,6 @@
 # 👋 Oie!! Me chamo Rafaella Cintra, venha me conhecer!!
 
-Desenvolvedora de software apaixonada por novas experiências, com foco em aprendizado contínuo e melhoria constante. Busca sempre trazer eficácia e inovação para os projettos em que atuo.
+Desenvolvedora de software apaixonada por novas experiências, com foco em aprendizado contínuo e melhoria constante. Busca sempre trazer eficácia e inovação para os projetos em que atuo.
 
 ---
 
@@ -65,6 +65,7 @@ Tecnologias:
 ---
 
 🎯 Objetivos Atuais
+
 Aperfeiçoar meu conhecimento em Full-Stack no geral. 
 Aprimorar arquitetura de software e padrões de projeto.
 Criar projetos open-source que resolvam problemas reais e que possam ajudar nos problenas de hoje.
@@ -79,6 +80,7 @@ E-mail: rafa.cintraTI@gmail.com
 ---
 
 🤝 Contribuições
+
 Estou sempre aberto para colaborar em projetos interessantes e desafiadores. Se você tiver uma ideia ou um projeto em mente, sinta-se à vontade para compartilhar e me contatar!
 
 <!--
